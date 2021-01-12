@@ -35,3 +35,9 @@ Minggu 4
 - Algoritma KNN dan Model Regresi Linear (KNN Algorithm and Linear Regression Model)
 - Evaluasi Performa dan Memilih Model (Performance Evaluation and Choosing Model)
 - Preprocessing Data 
+
+If there's any question, critics, or input please kindly reach me through this email :
+t.m.kemalisfan@gmail.com
+
+#### Regards,
+#### Teuku Muhammad Kemal Isfan
